@@ -62,14 +62,14 @@ GET /api/mappings/ – List all mappings
 
 GET /api/mappings/<patient_id>/ – Get patient’s doctors
 
+DELETE /api/mappings/<id>/ – Remove doctor from patient
+
 
 
 
 This project is for educational and evaluation purposes as part of a technical assessment.
 
 
-
-DELETE /api/mappings/<id>/ – Remove doctor from patient
 
 
 
